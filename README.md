@@ -2,7 +2,8 @@
 
 A lightweight JavaScript library that creates cat paw prints following your mouse cursor.
 
-![Version](https://img.shields.io/badge/version-1.0.0-blue)
+[![npm version](https://img.shields.io/npm/v/cat-paw-prints.svg)](https://www.npmjs.com/package/cat-paw-prints)
+[![npm downloads](https://img.shields.io/npm/dm/cat-paw-prints.svg)](https://www.npmjs.com/package/cat-paw-prints)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
 ![Demo](demo.gif)
@@ -15,7 +16,28 @@ A lightweight JavaScript library that creates cat paw prints following your mous
 - 📱 Touch and mouse support
 - 🐈 Realistic cat walking pattern
 
-## 🚀 Quick Start
+## Installation
+
+### Via npm
+
+```bash
+npm install cat-paw-prints
+```
+
+```javascript
+import CatPawPrints from 'cat-paw-prints';
+
+const pawPrints = new CatPawPrints();
+pawPrints.init();
+```
+
+### Via CDN
+
+```html
+<script src="https://cdn.jsdelivr.net/npm/cat-paw-prints@1.0.0/cat-paw-prints.js"></script>
+```
+
+### Direct Download
 
 ```html
 <!DOCTYPE html>
