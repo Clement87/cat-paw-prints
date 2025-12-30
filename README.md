@@ -8,6 +8,8 @@ A lightweight JavaScript library that creates cat paw prints following your mous
 
 ![Demo](demo.gif)
 
+**[🎮 Try the Live Demo!](https://clement87.github.io/cat-paw-prints/)**
+
 ## ✨ Features
 
 - 🎯 Zero dependencies - Pure vanilla JavaScript
