@@ -5,6 +5,8 @@ A lightweight JavaScript library that creates cat paw prints following your mous
 ![Version](https://img.shields.io/badge/version-1.0.0-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
+![Demo](demo.gif)
+
 ## ✨ Features
 
 - 🎯 Zero dependencies - Pure vanilla JavaScript
