@@ -1,0 +1,27 @@
+{
+  "name": "cat-paw-prints",
+  "version": "1.0.0",
+  "description": "A lightweight JavaScript library that creates cat paw prints following your mouse cursor",
+  "main": "cat-paw-prints.js",
+  "keywords": [
+    "cat",
+    "paw",
+    "prints",
+    "cursor",
+    "trail",
+    "mouse",
+    "javascript",
+    "animation",
+    "fun"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/clement87/cat-paw-prints.git"
+  },
+  "bugs": {
+    "url": "https://github.com/clement87/cat-paw-prints/issues"
+  },
+  "homepage": "https://github.com/clement87/cat-paw-prints#readme"
+}
